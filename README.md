@@ -14,6 +14,6 @@ Apresentação e demonstração de WebSocket em Spring para disciplina de Progra
 
 **_[Slide - WebSocket em Spring](https://www.canva.com/design/DAEeZzcLjZo/W-OHvpaLPFhyEDedV6Sg3g/view?utm_content=DAEeZzcLjZo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)_**
 
-##Laboratório:
+## Laboratório:
 
 **_[Laboratório - WebSocket em Spring](https://github.com/KarolineLima/WebSockets-Spring/tree/main/lab-distribuida)_**
