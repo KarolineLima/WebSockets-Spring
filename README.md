@@ -1,6 +1,6 @@
 # WebSockets em Spring
 
-Apresentação e demonstração de WebSocket em Spring
+Apresentação e demonstração de WebSocket em Spring para disciplina de Programação Distribuída.
 
 ## Equipe:
 
